@@ -5,7 +5,7 @@ I'm Jennifer. I build scalable, thoughtfully engineered systems for working with
 ## Ask me about some of my recent projects!
 
 ### PoliDraft
-A research tool that transforms dense policy and scientific materials into structured, accessible insights using automated retrieval and synthesis workflows.
+A system that applies RAG retrieval, document parsing, and automated synthesis to convert complex policy and scientific materials into structured, searchable outputs for researchers.
 
 ### Biosensor Integration Platform
 A system designed to unify data from multiple biosensor sources into a single, coherent layer that supports analysis, monitoring, and research applications.
