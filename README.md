@@ -1,6 +1,6 @@
 # Hi there! 
 
-I'm Jen & I build scalable, thoughtfully engineered systems primarily to make working with data accessible and easy. My background blends engineering and behavioral science, which lets me approach technical problems with an emphasis on usability, clarity, and human-centered design. I’m especially interested in system architecture, automation, and tools that make complex workflows more efficient and transparent.
+I'm Jen & I build scalable, thoughtfully engineered systems primarily to make working with complex data accessible and simple. My background blends engineering and behavioral science, which lets me approach technical problems with an emphasis on usability, clarity, and human-centered design. I’m especially interested in system architecture, automation, and tools that make complex workflows more efficient and transparent.
 
 ## Ask me about some of my recent projects!
 
